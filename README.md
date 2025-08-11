@@ -1,4 +1,5 @@
 # A Comprehensive Guide to the Classical NP-Complete Problems
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16795417.svg)](https://doi.org/10.5281/zenodo.16795417)
 
 **Author:** Nargiz Aghayeva  
 **Institution:** ADA University, School of IT and Engineering, Baku, Azerbaijan  
@@ -49,11 +50,11 @@ Each problem is presented with:
 If you use this work in teaching, research, or your own projects, please cite:
 
 ```bibtex
-@unpublished{aghayeva2025npcomplete,
-  author = {Aghayeva, Nargiz},
-  title = {A Comprehensive Guide to the Classical NP-Complete Problems},
-  institution = {ADA University},
-  note = {Unpublished manuscript, available at \url{https://github.com/<aghayevaanargiz>/<NpCompleteProblems>}},
-  year = {2025}
+@misc{aghayeva2025npcomplete,
+  author       = {Aghayeva, Nargiz},
+  title        = {A Comprehensive Guide to the Classical NP-Complete Problems},
+  institution  = {ADA University},
+  year         = {2025},
+  note         = {Available at \url{https://doi.org/10.5281/zenodo.16795417}}
 }
 
